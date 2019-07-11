@@ -1,0 +1,1 @@
+- https://stackoverflow.com/questions/29107607/best-spring-batch-scaling-strategy
